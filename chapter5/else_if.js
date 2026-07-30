@@ -86,3 +86,4 @@ if(gameLevel<10){
 }else if(gameLevel>50){
     console.log(object);
 }
+
