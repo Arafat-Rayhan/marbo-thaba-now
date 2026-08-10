@@ -1,8 +1,9 @@
 //practice use {} into paramiter
+//this first is very important
 const product = {
     name : 'Laptop',
     price : 50000,
-    brand : 'Dell'
+    // brand : 'Dell'
 }
 function seeBrand({brand}){
     return brand;
